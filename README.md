@@ -15,12 +15,19 @@ Este projeto implementa um sistema de busca de automóveis com uma interface de 
 
 ## Estrutura do Projeto
 ├── agent/                  # Lógica do agente virtual
+
 ├── core/                   # Modelos, schemas, configuração do Banco de Dados
+
 ├── mcp/                    # Cliente e Servidor MCP
+
 ├── scripts/                # Script popular Banco de Dados
+
 ├── tests/                  # Testes automatizados
+
 ├── main.py                 # Inicio
+
 ├── requirements.txt        # Dependências
+
 └── README.md
 
 ## Pré-requisitos
